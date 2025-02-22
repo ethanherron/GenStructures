@@ -1,6 +1,6 @@
 # Latent Diffusion Models for Structural Component Design
 
-![LDM Architecture](LDM_Inference.png)
+![LDM Architecture](figures/LDM_Inference.png)
 
 This repository contains an implementation of a latent diffusion model for generating structural components. The model consists of two main parts:
 
