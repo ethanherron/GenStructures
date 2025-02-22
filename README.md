@@ -35,6 +35,8 @@ python main.py ldm --data_path /path/to/data --vae_weights_path /path/to/vae/wei
 
 ## Citation
 
+Read our paper: [arXiv](https://arxiv.org/pdf/2309.11601) | [CAD](https://www.sciencedirect.com/science/article/abs/pii/S0010448524000344)
+
 ```bibtex
 @article{herron2024latent,
   title={Latent diffusion models for structural component design},
